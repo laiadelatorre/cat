@@ -1131,6 +1131,106 @@ a {
 .cid-tXRGt1LF25 .cost {
   color: #ffffff;
 }
+.cid-u3O5L0fUEq {
+  padding-top: 0rem;
+  padding-bottom: 1rem;
+  background-color: #353535;
+}
+.cid-u3O5L0fUEq .top-line {
+  display: flex;
+  justify-content: space-between;
+}
+.cid-u3O5L0fUEq .mbr-section-title,
+.cid-u3O5L0fUEq .mbr-section-subtitle {
+  text-align: center;
+}
+.cid-u3O5L0fUEq .card:not(:nth-last-child(1)) {
+  margin-bottom: 2rem;
+}
+.cid-u3O5L0fUEq .card-wrapper {
+  border-radius: 4px;
+  background-color: #fafafa;
+  background-color: transparent;
+}
+.cid-u3O5L0fUEq .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+@media (max-width: 767px) {
+  .cid-u3O5L0fUEq .card-box {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) {
+  .cid-u3O5L0fUEq .card-box {
+    padding-right: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-u3O5L0fUEq .card-box {
+    padding-left: 2rem;
+    padding-right: 4rem;
+  }
+}
+.cid-u3O5L0fUEq .card-title {
+  color: #ffffff;
+}
+.cid-u3O5L0fUEq .mbr-text {
+  color: #fafafa;
+}
+.cid-u3O5L0fUEq .cost {
+  color: #ffffff;
+}
+.cid-u3O2D0FahI {
+  padding-top: 0rem;
+  padding-bottom: 1rem;
+  background-color: #353535;
+}
+.cid-u3O2D0FahI .top-line {
+  display: flex;
+  justify-content: space-between;
+}
+.cid-u3O2D0FahI .mbr-section-title,
+.cid-u3O2D0FahI .mbr-section-subtitle {
+  text-align: center;
+}
+.cid-u3O2D0FahI .card:not(:nth-last-child(1)) {
+  margin-bottom: 2rem;
+}
+.cid-u3O2D0FahI .card-wrapper {
+  border-radius: 4px;
+  background-color: #fafafa;
+  background-color: transparent;
+}
+.cid-u3O2D0FahI .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+@media (max-width: 767px) {
+  .cid-u3O2D0FahI .card-box {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) {
+  .cid-u3O2D0FahI .card-box {
+    padding-right: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-u3O2D0FahI .card-box {
+    padding-left: 2rem;
+    padding-right: 4rem;
+  }
+}
+.cid-u3O2D0FahI .card-title {
+  color: #ffffff;
+}
+.cid-u3O2D0FahI .mbr-text {
+  color: #fafafa;
+}
+.cid-u3O2D0FahI .cost {
+  color: #ffffff;
+}
 .cid-tXRGrfRwNA {
   padding-top: 0rem;
   padding-bottom: 1rem;
