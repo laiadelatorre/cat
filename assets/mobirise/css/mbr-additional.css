@@ -1131,6 +1131,56 @@ a {
 .cid-ua2MFPOAmK .cost {
   color: #ffffff;
 }
+.cid-udkI33gIh3 {
+  padding-top: 0rem;
+  padding-bottom: 1rem;
+  background-color: #353535;
+}
+.cid-udkI33gIh3 .top-line {
+  display: flex;
+  justify-content: space-between;
+}
+.cid-udkI33gIh3 .mbr-section-title,
+.cid-udkI33gIh3 .mbr-section-subtitle {
+  text-align: center;
+}
+.cid-udkI33gIh3 .card:not(:nth-last-child(1)) {
+  margin-bottom: 2rem;
+}
+.cid-udkI33gIh3 .card-wrapper {
+  border-radius: 4px;
+  background-color: #fafafa;
+  background-color: transparent;
+}
+.cid-udkI33gIh3 .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+@media (max-width: 767px) {
+  .cid-udkI33gIh3 .card-box {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) {
+  .cid-udkI33gIh3 .card-box {
+    padding-right: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-udkI33gIh3 .card-box {
+    padding-left: 2rem;
+    padding-right: 4rem;
+  }
+}
+.cid-udkI33gIh3 .card-title {
+  color: #ffffff;
+}
+.cid-udkI33gIh3 .mbr-text {
+  color: #fafafa;
+}
+.cid-udkI33gIh3 .cost {
+  color: #ffffff;
+}
 .cid-u7cXBMqClN {
   padding-top: 0rem;
   padding-bottom: 1rem;
