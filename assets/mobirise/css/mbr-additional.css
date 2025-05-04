@@ -1181,6 +1181,56 @@ a {
 .cid-uEe4eR11Ba .cost {
   color: #ffffff;
 }
+.cid-uKe3ontVKd {
+  padding-top: 0rem;
+  padding-bottom: 1rem;
+  background-color: #353535;
+}
+.cid-uKe3ontVKd .top-line {
+  display: flex;
+  justify-content: space-between;
+}
+.cid-uKe3ontVKd .mbr-section-title,
+.cid-uKe3ontVKd .mbr-section-subtitle {
+  text-align: center;
+}
+.cid-uKe3ontVKd .card:not(:nth-last-child(1)) {
+  margin-bottom: 2rem;
+}
+.cid-uKe3ontVKd .card-wrapper {
+  border-radius: 4px;
+  background-color: #fafafa;
+  background-color: transparent;
+}
+.cid-uKe3ontVKd .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+@media (max-width: 767px) {
+  .cid-uKe3ontVKd .card-box {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) {
+  .cid-uKe3ontVKd .card-box {
+    padding-right: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-uKe3ontVKd .card-box {
+    padding-left: 2rem;
+    padding-right: 4rem;
+  }
+}
+.cid-uKe3ontVKd .card-title {
+  color: #ffffff;
+}
+.cid-uKe3ontVKd .mbr-text {
+  color: #fafafa;
+}
+.cid-uKe3ontVKd .cost {
+  color: #ffffff;
+}
 .cid-uEe4dTGIH7 {
   padding-top: 0rem;
   padding-bottom: 1rem;
